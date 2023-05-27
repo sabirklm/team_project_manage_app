@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "322547275203",
+    "project_id": "team-ion-21",
+    "storage_bucket": "team-ion-21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322547275203:android:71125774a3cc9a7eb01976",
+        "android_client_info": {
+          "package_name": "com.example.team_project_manage_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322547275203-us22eusr6uqpa1lgh9h30cf4nji30vov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnm47fVZj6G3ZjotpxJQbAx7LkOnP5b2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322547275203-us22eusr6uqpa1lgh9h30cf4nji30vov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "322547275203-lb1ff96h8hrfamtu0kmfnulpouqg01ip.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.team.ion21"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322547275203:android:b5bed5929d528610b01976",
+        "android_client_info": {
+          "package_name": "com.team.ion21"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322547275203-us22eusr6uqpa1lgh9h30cf4nji30vov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnm47fVZj6G3ZjotpxJQbAx7LkOnP5b2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322547275203-us22eusr6uqpa1lgh9h30cf4nji30vov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "322547275203-lb1ff96h8hrfamtu0kmfnulpouqg01ip.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.team.ion21"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
