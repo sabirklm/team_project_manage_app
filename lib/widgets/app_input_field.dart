@@ -8,7 +8,8 @@ class AppInputField extends StatelessWidget {
   const AppInputField({
     super.key,
     this.heading,
-    this.hintText, this.controller,
+    this.hintText,
+    this.controller,
   });
 
   @override
